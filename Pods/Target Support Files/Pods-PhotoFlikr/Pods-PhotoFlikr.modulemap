@@ -1,0 +1,6 @@
+framework module Pods_PhotoFlikr {
+  umbrella header "Pods-PhotoFlikr-umbrella.h"
+
+  export *
+  module * { export * }
+}
